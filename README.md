@@ -2,6 +2,12 @@
 
 ###
 
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:MdSakifHossain?theme=booru-lewd&padding=6&offset=0&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
+###
+
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=MdSakifHossain&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
